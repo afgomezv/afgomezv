@@ -1,4 +1,4 @@
-# 👋 ¡Hello! I'm Andrey
+# ¡Hello! 👋 I'm Andrey
 A passionate web programmer with an insatiable desire to learn and excel in various projects. Since discovering programming, I have been immersed in an exciting journey of problem-solving and creating innovative solutions.<br><br>My fascination with programming and technical challenges drives me to constantly seek new opportunities to expand my skills and knowledge. I am always excited to take on difficult problems and find creative ways to solve them.<br><br>With a growth-oriented mindset and impeccable work ethic, I am ready to dive into any project that offers an interesting challenge and opportunity. to learn something new. My goal is to contribute significantly to the success of each project in which I participate, contributing my experience and my passion for technical excellence.<br><br>I am excited to connect with other professionals in the technological world and collaborate on exciting projects. Let's build something amazing together!<br><br>Thank you for visiting my profile!
 
 
