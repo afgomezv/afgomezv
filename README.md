@@ -1,5 +1,5 @@
 # ¡Hello! 👋 I'm Andrey
-Ingeniero Mecánico y Desarrollador Front-end con experiencia comprobada en tecnologías como Typescript, Next.js, React y Node.js. He contribuido significativamente en proyectos de desarrollo web, integración de APIs y automatización de procesos en entidades gubernamentales y empresas internacionales. Destaco por mi capacidad para optimizar código y gestionar despliegues continuos, además de mi formación en ciberseguridad y soluciones en la nube de Microsoft Azure. Comprometido con la innovación y el aprendizaje continuo en el sector de TI.
+Desarrollador Front-end con experiencia comprobada en tecnologías como Typescript, Next.js, React y Node.js. He contribuido significativamente en proyectos de desarrollo web, integración de APIs y automatización de procesos en entidades gubernamentales y empresas internacionales. Destaco por mi capacidad para optimizar código y gestionar despliegues continuos, además de mi formación en ciberseguridad y soluciones en la nube de Microsoft Azure. Comprometido con la innovación y el aprendizaje continuo en el sector de TI.
 
 
 ## 🌐 Socials
